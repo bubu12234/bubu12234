@@ -1,6 +1,6 @@
 # Adella Aprilia Sugianto
 
-Mahasiswa Informatika Universitas Al Azhar Indonesia yang sedang membangun karier sebagai **Data Analyst**. Bekerja di Human Initiative sejak 2019 (Customer Service, kini Front Office/Admin Divisi) dan pernah Kerja Praktik di divisi Data Analyst, mengelola dan memvisualisasikan data donasi dengan Sigma CRM dan Power BI.
+Mahasiswa Informatika Universitas Al Azhar Indonesia yang sedang membangun karier sebagai **Data Analyst**. Bekerja di Human Initiative sejak 2019 (Customer Service, kini Front Office/Admin Divisi) dan pernah Kerja Praktik di subdivisi Data Analyst, mengelola dan memvisualisasikan data donasi dengan Sigma CRM dan Power BI.
 
 ## Proyek
 
