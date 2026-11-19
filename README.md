@@ -15,4 +15,4 @@ SQL lanjutan · Python (pandas) · visualisasi data
 
 ## Kontak
 
-LinkedIn: [linkedin.com/in/adella-aprilia-ba0692261](https://www.linkedin.com/in/adella-aprilia-ba0692261)
+LinkedIn: [linkedin.com/in/adella-aprilia-6a0692261](https://www.linkedin.com/in/adella-aprilia-6a0692261)
